@@ -37,3 +37,8 @@ This Lambda function uses AWS SDK to interact with EC2 and EBS resources, identi
 ## Troubleshooting
 * Check the Lambda function's logs for errors or issues.
 * Verify that the IAM role has the necessary permissions.
+
+## Outcome
+
+<img width="1868" height="798" alt="Screenshot 2025-09-21 015858" src="https://github.com/user-attachments/assets/174547a8-d0dd-4686-acd1-4b650d79755d" />
+
